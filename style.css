@@ -460,6 +460,5 @@ header {
 }
 .navbar-brand img {
   height: 60px;   /* Adjust logo height */
-  width: auto;
-  mar    /* Keep aspect ratio */
+  width: auto;    /* Keep aspect ratio */
 }
